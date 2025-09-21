@@ -1,6 +1,6 @@
 spring:
   application:
-    name: study-service
+    name: study
   profiles:
     active: local   # 기본은 local로
   jackson:
